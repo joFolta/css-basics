@@ -2,11 +2,13 @@
 
 CSS refresh by following TraversyMedia's Udemy Course: Modern HTML & CSS From The Beginning
 
+#### Lessons/Git Commits
+
 1. Implementing CSS
 
 1. Basic CSS Selectors
 
-1. Dev Tools Introduction
+1. ~~Dev Tools Introduction~~
 
 1. Fonts In CSS
 
