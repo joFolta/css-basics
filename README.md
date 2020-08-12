@@ -14,11 +14,11 @@ CSS refresh by following TraversyMedia's Udemy Course: Modern HTML & CSS From Th
 
 1. Color Types
 
-<!-- START VIDEO HERE -->
-<!-- START VIDEO HERE -->
-<!-- START VIDEO HERE -->
 1. Backgrounds & Borders
 
+<!-- START VIDEO HERE -->
+<!-- START VIDEO HERE -->
+<!-- START VIDEO HERE -->
 1. Box Model, Margin & Padding
 
 1. Float & Alignment
