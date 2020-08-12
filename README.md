@@ -11,12 +11,12 @@ CSS refresh by following TraversyMedia's Udemy Course: Modern HTML & CSS From Th
 1. ~~Dev Tools Introduction~~
 
 1. Fonts In CSS
-<!-- START VIDEO HERE -->
-<!-- START VIDEO HERE -->
-<!-- START VIDEO HERE -->
 
 1. Color Types
 
+<!-- START VIDEO HERE -->
+<!-- START VIDEO HERE -->
+<!-- START VIDEO HERE -->
 1. Backgrounds & Borders
 
 1. Box Model, Margin & Padding
