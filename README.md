@@ -18,11 +18,11 @@ CSS refresh by following TraversyMedia's Udemy Course: Modern HTML & CSS From Th
 
 1. Box Model, Margin & Padding
 
-<!-- START VIDEO HERE -->
-<!-- START VIDEO HERE -->
-<!-- START VIDEO HERE -->
 1. Float & Alignment
 
+<!-- START VIDEO HERE -->
+<!-- START VIDEO HERE -->
+<!-- START VIDEO HERE -->
 1. Link State & Button Styling
 
 1. Navigation Menu Styling
