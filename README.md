@@ -20,11 +20,11 @@ CSS refresh by following TraversyMedia's Udemy Course: Modern HTML & CSS From Th
 
 1. Float & Alignment
 
-<!-- START VIDEO HERE -->
-<!-- START VIDEO HERE -->
-<!-- START VIDEO HERE -->
 1. Link State & Button Styling
 
+<!-- START VIDEO HERE -->
+<!-- START VIDEO HERE -->
+<!-- START VIDEO HERE -->
 1. Navigation Menu Styling
 
 1. Inline, Block & Inline-Block Display
