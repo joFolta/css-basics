@@ -32,7 +32,4 @@ CSS refresh by following TraversyMedia's Udemy Course: Modern HTML & CSS From Th
 
 1. Form Style Solution
 
-<!-- START VIDEO HERE -->
-<!-- START VIDEO HERE -->
-<!-- START VIDEO HERE -->
 1. Aside: Visibility, Order & Negative Margin
