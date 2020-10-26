@@ -26,10 +26,10 @@ CSS refresh by following TraversyMedia's Udemy Course: Modern HTML & CSS From Th
 
 1. Positioning
 
-1. Form Style Challenge
-
-1. Form Style Solution
+1. Form Style Challenge / Solution
 
 1. Aside: Visibility, Order & Negative Margin
 
 1. Getting Started With Media Queries
+
+1. Em & Rem Units
