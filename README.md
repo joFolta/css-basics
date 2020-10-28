@@ -7,9 +7,9 @@
   <img src="img/preview.png" width="32%" alt="Desktop screenshot from vh & vw exercize" />
 </p>
 <p float="left">
-  <label style="display: inline-block; width: 32%; text-align: center;" src="img/previewLandscape.png" alt="iPhoneX landscape screenshot from vh & vw exercize" >iPhoneX Landscape</label>
-  <label style="display: inline-block; width: 32%; text-align: center;" src="img/previewVertical.png" alt="iPhoneX vertical orientation screenshot from vh & vw exercize">iPhoneX Vertical</label> 
-  <label style="display: inline-block; width: 32%; text-align: center;" src="img/preview.png" alt="Desktop screenshot from vh & vw exercize" >Desktop</label>
+  <label style="display: inline-block; width: 32%; text-align: center;">iPhoneX Landscape</label>
+  <label style="display: inline-block; width: 32%; text-align: center;">iPhoneX Vertical</label> 
+  <label style="display: inline-block; width: 32%; text-align: center;">Desktop</label>
 </p>
 
 <br>
