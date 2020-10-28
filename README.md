@@ -1,7 +1,19 @@
 # css-basics
 
+<table style="text-align: center;">
+  <tr>
+    <td width=32%><img src="img/previewLandscape.png" alt="iPhoneX landscape screenshot from vh & vw exercize" ></td>
+    <td width=32%><img src="img/previewVertical.png" alt="iPhoneX vertical orientation screenshot from vh & vw exercize" ></td>
+    <td width=32%><img src="img/preview.png" alt="Desktop screenshot from vh & vw exercize" ></td>
+  </tr>
+  <tr>
+    <td>iPhoneX Landscape</td>
+    <td>iPhoneX Vertical</td>
+    <td>Desktop</td>
+  </tr>
+ </table>
 
-<p float="left">
+<!-- <p float="left">
   <img src="img/previewLandscape.png" width="32%" alt="iPhoneX landscape screenshot from vh & vw exercize" />
   <img src="img/previewVertical.png" width="32%" alt="iPhoneX vertical orientation screenshot from vh & vw exercize"/> 
   <img src="img/preview.png" width="32%" alt="Desktop screenshot from vh & vw exercize" />
@@ -10,7 +22,7 @@
   <label style="display: inline-block; width: 32%; text-align: center;">iPhoneX Landscape</label>
   <label style="display: inline-block; width: 32%; text-align: center;">iPhoneX Vertical</label> 
   <label style="display: inline-block; width: 32%; text-align: center;">Desktop</label>
-</p>
+</p> -->
 
 <br>
 <br>
