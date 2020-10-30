@@ -12,18 +12,7 @@
     <td>Desktop</td>
   </tr>
  </table>
-
-<!-- <p float="left">
-  <img src="img/previewLandscape.png" width="32%" alt="iPhoneX landscape screenshot from vh & vw exercize" />
-  <img src="img/previewVertical.png" width="32%" alt="iPhoneX vertical orientation screenshot from vh & vw exercize"/> 
-  <img src="img/preview.png" width="32%" alt="Desktop screenshot from vh & vw exercize" />
-</p>
-<p float="left">
-  <label style="display: inline-block; width: 32%; text-align: center;">iPhoneX Landscape</label>
-  <label style="display: inline-block; width: 32%; text-align: center;">iPhoneX Vertical</label> 
-  <label style="display: inline-block; width: 32%; text-align: center;">Desktop</label>
-</p> -->
-
+ 
 <br>
 <br>
 
