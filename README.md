@@ -16,7 +16,7 @@
 <br>
 <br>
 
-CSS refresh by following TraversyMedia's Udemy Course: Modern HTML & CSS From The Beginning
+Floats, Media Queries, Responsive Pages, etc - CSS refresh by following TraversyMedia's Udemy Course: Modern HTML & CSS From The Beginning
 
 <br>
 
